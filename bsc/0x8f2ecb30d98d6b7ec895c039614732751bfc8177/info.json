@@ -1,0 +1,11 @@
+{
+  "name": "FutureFoundersDollar",
+  "website": "www.ffd.one",
+  "description": "It is a meme coin themed around the 'American Dream', inspired by prominent figures such as Donald Trump and Elon Musk.",
+  "explorer": "https://bscscan.com/token/0x8f2ecb30d98d6b7ec895c039614732751bfc8177",
+  "type": "BEP20",
+  "symbol": "FFD",
+  "decimals": 8,
+  "status": "active",
+  "id": "0x8f2ecb30d98d6b7ec895c039614732751bfc8177"
+}
